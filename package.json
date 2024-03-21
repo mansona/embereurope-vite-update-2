@@ -1,0 +1,21 @@
+{
+  "name": "embereurope-vite-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "auto-reveal",
+    "build": "auto-reveal build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-reveal": "^0.1.0",
+    "auto-reveal-theme-mainmatter": "github:pichfl/auto-reveal-theme-mainmatter"
+  },
+  "devDependencies": {
+    "layer-gen": "^1.0.0",
+    "layer-gen-blueprint": "^1.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+# Embroider + Vite update #2
