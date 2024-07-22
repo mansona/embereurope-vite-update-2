@@ -12,8 +12,8 @@ importers:
         specifier: ^0.2.0
         version: 0.2.0(@types/node@20.11.30)
       auto-reveal-theme-mainmatter:
-        specifier: ^0.1.1
-        version: 0.1.1
+        specifier: ^0.1.2
+        version: 0.1.2
     devDependencies:
       layer-gen:
         specifier: ^1.0.0
@@ -472,8 +472,8 @@ packages:
   async@3.2.5:
     resolution: {integrity: sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==}
 
-  auto-reveal-theme-mainmatter@0.1.1:
-    resolution: {integrity: sha512-nJsSrZS6Ksq3QmItFi+fBEs7knxBkLY2kA2rylSNfRoa0xDdUSJPW1t3dycpgJ/IJT//2In8MchjGjfdFYA4qw==}
+  auto-reveal-theme-mainmatter@0.1.2:
+    resolution: {integrity: sha512-Ia0tWob3V3meiyXeTEVgBwvvMrMdOH1wYEr8U9AZyRjNEB5Zmu3X4NH0GlXAP65hAHtQgRhYHRww0BjBeZYd7A==}
 
   auto-reveal@0.2.0:
     resolution: {integrity: sha512-rLlRy0rFwcdq4Zgn8AzIhM8+//YyvejJnNfEsGw9c7IPS0PXihnVmjnwrph/rfDRwBv4Ag2Gsi5nONRj38RLww==}
@@ -2006,7 +2006,7 @@ snapshots:
 
   async@3.2.5: {}
 
-  auto-reveal-theme-mainmatter@0.1.1:
+  auto-reveal-theme-mainmatter@0.1.2:
     dependencies:
       '@yukaii/github-highlightjs-themes': 1.0.0
 
